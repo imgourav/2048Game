@@ -20,5 +20,3 @@ Just copy the code and paste it on your local environment of python. No need to 
 
 ![image](https://user-images.githubusercontent.com/72176692/225839611-a73b19d4-c668-411a-bedf-8312b73c77ef.png)
 
-### Videos
-<p><img align="right" tsrc="" width="500" height="320" /></p>
